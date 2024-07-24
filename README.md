@@ -3,7 +3,7 @@
 I am a developer with experience in PHP and web development.
 ## Goals
   **Next 6 months**: Enhance my programming skills.
-  **Next 2 years**: Become a professional developer, contribute to larger projects, and develop leadership skills.
+  -**Next 2 years**: Become a professional developer, contribute to larger projects, and develop leadership skills.
 ## Skills and Experience:
 PHP
 JAVA-Android
