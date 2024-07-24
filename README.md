@@ -1,4 +1,4 @@
-## Hello! I am SANG 👋
+## Hello! You can call me Sean 👋
 ## Introduction
 I am a developer with experience in PHP and web development.
 ## Goals
