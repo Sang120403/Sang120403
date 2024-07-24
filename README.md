@@ -7,7 +7,7 @@ I am a developer with experience in PHP and web development.
 ## Skills and Experience:
 PHP
 JAVA-Android
-MySql, SqlServr
+MySql, SqlServer
 Git, Github
 Exel-Word-PP
 PhotoShop-Ilustrator
